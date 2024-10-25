@@ -1,0 +1,29 @@
+main banda folder and initial files banaega
+
+ab use git hub pe dalega
+
+collaboprator add karega
+
+sare bande repo se cloning karega 
+    git clone
+
+[VERY IMPORTANT] apni branch create karein
+    git switch -C feature/<branch name>
+
+complete hone pe commit dein and push karegainfprm kare team mate ko about the commit
+    commit => git add.
+         git commit -m "comment"         
+        upload on github =>git push -u origin <branch name>
+
+inform kare team mate ko about the commit
+
+merger banda fetch karega ang merge karega 
+    git fetch
+    ab vo fetch hui branch mai jaega 
+    code sahi hai tab vo merge karega real code mai 
+    baad mai git hub pe upload karega => git push origin main
+
+ab merge kiya hua code merger ke pass bhi hai or github ke pass bhi hai 
+    ab colaborator main branch mai jake github se fatch karega => git pull
+
+

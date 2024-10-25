@@ -1,0 +1,18 @@
+stages:
+U - untracked
+A - added to stage
+C - commited
+
+commands you need to know -
+git status -s => to know current status of unstaged and staged file
+git log --oneline => to know current status of saved point
+
+managing your own projects
+making git available in our project
+making a checkedpoint or saved point
+	adding files
+	staging them
+	commiting them 
+git reset --hard HEAD~1=> going back to some privious checked point
+	logging everything
+	reverting back to the privioud saved point

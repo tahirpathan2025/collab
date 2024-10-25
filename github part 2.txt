@@ -1,0 +1,26 @@
+git log =>  to know current saved point in detail
+
+deleting all gits from vscode
+rmdir .git => it emoves all git from vscode
+rm -rf .git => it emoves all git from vscode
+
+creating branch in git
+git branch feature/<component name> => creatin branch 
+
+display all brances
+git branch => it shows all branches in your vscode
+
+switching to other branches
+git switch feature/<branch name> => to switch on another branch
+
+merging to other branches
+git merge feature/<branch name> => to merge to another branch
+
+creating and switching to branch in one =>
+git switch -c featur/<branch name>
+
+git log --oneline --graph => to know current saved point
+
+git stash => to store changes in to github temporary memory
+git stash apply => to retrive changes from github temporary memory
+git stash clear => to delete changes from github temporary memory
